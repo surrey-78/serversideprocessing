@@ -105,4 +105,4 @@ Area : <p id="result"></p>
 
 
 ## Result:
-
+The program for implementing area of a rectangle using HTML, CSS and JavaScript is executed successfully.
